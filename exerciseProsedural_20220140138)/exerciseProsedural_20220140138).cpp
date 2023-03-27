@@ -11,3 +11,9 @@ string status(double c) {
 		return "gagal";
 }
 
+string status2(double rata, double nila) {
+	if (rata >= 70 || nil > 80)
+		return "Lulus";
+	else
+		return "gagal";
+}
